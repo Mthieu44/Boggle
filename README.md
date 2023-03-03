@@ -10,4 +10,4 @@ py main.py
 ```
 
 ### How to play
-Input each row of dice, with lower case letters, and wait.
+Input each row of dice, with lowercase letters, and wait.
